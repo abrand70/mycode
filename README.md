@@ -1,3 +1,4 @@
+I want to learn how to version control projects with git.
 # mycode
 learning to track my code
 # mycode
