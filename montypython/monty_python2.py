@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 round = 0
-while(true):
+while(True):
     round = round + 1
-    print('Finish th movie title, "Monty Python\'s The life of _____"')
+    print('Finish the movie title, "Monty Python\'s The life of _____"')
     answer = input()
     if (answer == 'Brian'):
-        print('coorect')
+        print('correct')
         break
     elif(round==3):
         print('Sorry, the answer was Brian.')
